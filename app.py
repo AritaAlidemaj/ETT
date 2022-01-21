@@ -26,22 +26,22 @@ def allowed_files(filename):
 
 
 def getTeachers():
-    teachers = open('app/teachers.json')
+    teachers = open('teachers.json')
     return json.load(teachers)
 
 
 def getExams():
-    exams = open('app/events.json')
+    exams = open('events.json')
     return json.load(exams)
 
 
 def getRooms():
-    rooms = open('app/rooms.json')
+    rooms = open('rooms.json')
     return json.load(rooms)
 
 
 def getPeriods():
-    periods = open('app/periods.json', encoding='utf-8')
+    periods = open('periods.json', encoding='utf-8')
     return json.load(periods)
 
 

@@ -1,27 +1,27 @@
 import json
 
 def getFiek():
-    fiek = open('app/fiek.json')
+    fiek = open('fiek.json')
     return json.load(fiek)
 
 def getRooms():
-    rooms = open('app/rooms.json')
+    rooms = open('rooms.json')
     return json.load(rooms)
 
 def getPeriods():
-    periods = open('app/periods.json')
+    periods = open('periods.json')
     return json.load(periods)
 
 def getExams():
-    exams = open('app/events.json')
+    exams = open('events.json')
     return json.load(exams)
 
 def getEventRoom():
-    eventRoom = open('app/eventRoom.json')
+    eventRoom = open('eventRoom.json')
     return json.load(eventRoom)
 
 def getCourses():
-    courses = open('app/courses.json')
+    courses = open('courses.json')
     return json.load(courses)
 
 
