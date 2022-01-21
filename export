@@ -1,1 +1,1 @@
-export "$PATH:$(pwd)/vendor/minizinc/bin"
+PATH=$PATH:$(pwd)/vendor/minizinc/bin
