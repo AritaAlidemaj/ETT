@@ -1,1 +1,1 @@
-export PATH=$PATH:/app/MiniZincIDE-2.1.3-bundle-linux-x86_64
+export PATH=$PATH:/app/MiniZincIDE-2.1.3-bundle-linux-x86
