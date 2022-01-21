@@ -1,0 +1,820 @@
+{
+  "Constraints": [
+    {
+      "Course": "English",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 0,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Programming Language",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 4,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Physics 1",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 7,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Basics of Electrical Engineering",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 10,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Mathematics 1",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 15,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Digital Circuits",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 2,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Algorithms And Data Structure I",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 5,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Physics 2",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 9,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Electrical Circuits",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 13,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Mathematics 2",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 19,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Object Oriented Programming",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 10,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Internet",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 6,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Mathematics 3K",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 9,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Databases",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 2,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Signals and Systems",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 12,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Electronics",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 19,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Project management",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 1,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Data Security",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 4,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Internet Programming",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 8,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Human-Computer Interaction",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 15,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Computer Networking",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 14,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Computer Architecture",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 18,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Entrepreneur",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 1,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Microprocessors and Microcontrollers",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 8,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Internet Security",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 12,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Software Engineering",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 14,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Operating Systems",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 19,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Data Mining",
+      "Exam": 1,
+      "Level": "Preferred",
+      "Period": 6,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Computer Networking Practice",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 9,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Distributed Systems",
+      "Exam": 1,
+      "Level": "Preferred",
+      "Period": 16,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Mobile Programming",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 15,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Algorithms And Data Structure II",
+      "Exam": 1,
+      "Level": "Preferred",
+      "Period": 13,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Artificial Intelligence",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 18,
+      "Type": "EventPeriodConstraint"
+    },
+    {
+      "Course": "Professional Practice",
+      "Exam": 0,
+      "Level": "Preferred",
+      "Period": 17,
+      "Type": "EventPeriodConstraint"
+    }
+  ],
+  "Courses": [
+    {
+      "Course": "English",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "1"
+    },
+    {
+      "Course": "Programming Language",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "2"
+    },
+    {
+      "Course": "Physics 1",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Large"
+      },
+      "Teacher": "3",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Basics of Electrical Engineering",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Large"
+      },
+      "Teacher": "4",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Mathematics 1",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Large"
+      },
+      "Teacher": "5",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Digital Circuits",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "6"
+    },
+    {
+      "Course": "Algorithms And Data Structure I",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "2"
+    },
+    {
+      "Course": "Physics 2",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "3",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Electrical Circuits",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "4",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Mathematics 2",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "5",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Object Oriented Programming",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "7"
+    },
+    {
+      "Course": "Internet",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "8"
+    },
+    {
+      "Course": "Mathematics 3K",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Large"
+      },
+      "Teacher": "9",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Databases",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "8"
+    },
+    {
+      "Course": "Signals and Systems",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Large"
+      },
+      "Teacher": "10",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Electronics",
+      "ExamType": "WrittenAndOral",
+      "NumberOfExams": 2,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Medium"
+      },
+      "Teacher": "11",
+      "WrittenOralSpecs": {
+        "MaxDistance": 6,
+        "MinDistance": 4,
+        "RoomForOral": true,
+        "SameDay": false
+      }
+    },
+    {
+      "Course": "Project management",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "12"
+    },
+    {
+      "Course": "Data Security",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "13"
+    },
+    {
+      "Course": "Internet Programming",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 2,
+        "Type": "Medium"
+      },
+      "Teacher": "14"
+    },
+    {
+      "Course": "Human-Computer Interaction",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "7"
+    },
+    {
+      "Course": "Computer Networking",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "13"
+    },
+    {
+      "Course": "Computer Architecture",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "14"
+    },
+    {
+      "Course": "Entrepreneur",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "12"
+    },
+    {
+      "Course": "Microprocessors and Microcontrollers",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "15"
+    },
+    {
+      "Course": "Internet Security",
+      "ExamType": "Written",
+      "NumberOfExams": 0,
+      "Teacher": "13"
+    },
+    {
+      "Course": "Software Engineering",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "13"
+    },
+    {
+      "Course": "Operating Systems",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "16"
+    },
+    {
+      "Course": "Data Mining",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Small"
+      },
+      "Teacher": "8"
+    },
+    {
+      "Course": "Computer Networking Practice",
+      "ExamType": "Written",
+      "NumberOfExams": 0,
+      "Teacher": "13"
+    },
+    {
+      "Course": "Distributed Systems",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "7"
+    },
+    {
+      "Course": "Mobile Programming",
+      "ExamType": "Written",
+      "NumberOfExams": 0,
+      "Teacher": "13"
+    },
+    {
+      "Course": "Algorithms And Data Structure II",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Large"
+      },
+      "Teacher": "2"
+    },
+    {
+      "Course": "Artificial Intelligence",
+      "ExamType": "Written",
+      "NumberOfExams": 0,
+      "Teacher": "17"
+    },
+    {
+      "Course": "Professional Practice",
+      "ExamType": "Written",
+      "NumberOfExams": 1,
+      "RoomsRequested": {
+        "Number": 1,
+        "Type": "Small"
+      },
+      "Teacher": "18"
+    }
+  ],
+  "Curricula": [
+    {
+      "Curriculum": "1",
+      "PrimaryCourses": [
+        "English",
+        "Programming Language",
+        "Physics 1",
+        "Basics of Electrical Engineering",
+        "Mathematics 1"
+      ],
+      "SecondaryCourses": []
+    },
+    {
+      "Curriculum": "2",
+      "PrimaryCourses": [
+        "Object Oriented Programming",
+        "Internet",
+        "Mathematics 3K",
+        "Databases",
+        "Signals and Systems",
+        "Electronics"
+      ],
+      "SecondaryCourses": [
+        "Digital Circuits",
+        "Algorithms And Data Structure I",
+        "Physics 2",
+        "Electrical Circuits",
+        "Mathematics 2"
+      ]
+    },
+    {
+      "Curriculum": "3",
+      "PrimaryCourses": [
+        "Entrepreneur",
+        "Microprocessors and Microcontrollers",
+        "Internet Security",
+        "Software Engineering",
+        "Operating Systems"
+      ],
+      "SecondaryCourses": [
+        "Project management",
+        "Data Security",
+        "Internet Programming",
+        "Human-Computer Interaction",
+        "Computer Networking",
+        "Computer Architecture"
+      ]
+    },
+    {
+      "Curriculum": "4",
+      "PrimaryCourses": [],
+      "SecondaryCourses": [
+        "Data Mining",
+        "Distributed Systems",
+        "Algorithms And Data Structure II",
+        "Professional Practice"
+      ]
+    },
+    {
+      "Curriculum": "5",
+      "PrimaryCourses": [],
+      "SecondaryCourses": [
+        "Data Mining",
+        "Distributed Systems",
+        "Artificial Intelligence",
+        "Professional Practice"
+      ]
+    },
+    {
+      "Curriculum": "6",
+      "PrimaryCourses": [],
+      "SecondaryCourses": [
+        "Distributed Systems",
+        "Algorithms And Data Structure II",
+        "Artificial Intelligence",
+        "Professional Practice"
+      ]
+    },
+    {
+      "Curriculum": "7",
+      "PrimaryCourses": [],
+      "SecondaryCourses": [
+        "Computer Networking Practice",
+        "Distributed Systems",
+        "Mobile Programming",
+        "Professional Practice"
+      ]
+    }
+  ],
+  "Periods": 20,
+  "PrimaryPrimaryDistance": 4,
+  "Rooms": [
+    {
+      "Room": "408",
+      "Type": "Large"
+    },
+    {
+      "Room": "411",
+      "Type": "Large"
+    },
+    {
+      "Room": "415",
+      "Type": "Large"
+    },
+    {
+      "Room": "414",
+      "Type": "Large"
+    },
+    {
+      "Room": "611",
+      "Type": "Medium"
+    },
+    {
+      "Room": "621",
+      "Type": "Medium"
+    },
+    {
+      "Room": "626",
+      "Type": "Small"
+    },
+    {
+      "Members": [
+        "408",
+        "411"
+      ],
+      "Room": "408/411",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "408",
+        "415"
+      ],
+      "Room": "408/415",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "408",
+        "414"
+      ],
+      "Room": "408/414",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "411",
+        "415"
+      ],
+      "Room": "411/415",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "411",
+        "414"
+      ],
+      "Room": "411/414",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "414",
+        "415"
+      ],
+      "Room": "414/415",
+      "Type": "Composite"
+    },
+    {
+      "Members": [
+        "611",
+        "621"
+      ],
+      "Room": "611/621",
+      "Type": "Composite"
+    }
+  ],
+  "SlotsPerDay": 1,
+  "Teachers": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ]
+}

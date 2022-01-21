@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Examination Timetabling Problem Using MiniZinc</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
+
+    <link href=" {{ url_for('static', filename='bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href=" {{ url_for('static', filename='css/home.css')}}" rel="stylesheet">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <header>
+
+        <div class="navbar navbar-light bg-light shadow-sm">
+            <div class="container">
+
+                <p class="mb-0">
+                    <img src=" {{ url_for('static', filename='img/uni100x100.png')}}" class="thumbnail">
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+        <section class="py-5 text-center container">
+            <div class="row py-lg-5">
+                <div class="col-lg-6 col-md-8 mx-auto">
+                    <p>
+                        <img src=" {{ url_for('static', filename='img/MiniZinc100x100.svg')}}" class="img-thumbnail">
+                    </p>
+                    <h1 class="fw-light">Examination Timetabling Problem Using MiniZinc</h1>
+                    <p class="lead text-muted">Upload your dzn file</p>
+                    <p>
+                        <a id="upload-dzn" type="file" class="btn btn-primary my-2">
+                            Upload
+                            <input type="file" name="dznFile">
+                        </a>
+                    <div id="upload-loading" class="spinner-border" role="status"></div>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <div class="py-5 bg-light">
+            <div class="container">
+                <table class="table d-none" id="data">
+                    <thead>
+                        <tr>
+                            <th scope="col">Exam</th>
+                            <th scope="col">Teachers</th>
+                            <th scope="col">Period</th>
+                            <th scope="col">Room</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+
+                </table>
+                <div class="row">
+                    <div class="col-md-12 bg-light text-right">
+                        <button type='button' id='pdfBtn' class='btn btn-primary float-end d-none'
+                            onclick='generatePDF()'>PDF</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="text-muted py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h4>Contact Us</h4>
+                    <p>
+                        Address:<br />Bregu i Diellit, p.n. 10000 Prishtinë, Republika e Kosovës<br><br>
+                        Email:<br>fiek@uni-pr.edu<br /><br>
+                        Telephone:<br>+381(0)38 554 896 ext.102<br>
+                        Fax. +381(0)38 542 525
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <h4>Resources</h4>
+                    <p>This repository contains the data for the paper Exact and Metaheuristic Methods for a Real-World
+                        Examination Timetabling Problem by Mats Carlsson, Sara Ceschia, Luca Di Gaspero, Rasmus Ørnstrup
+                        Mikkelsen, Andrea Schaerf, Thomas Jacob Riis Stidsen (submitted for publication).</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src=" {{ url_for('static', filename='bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+    <script src=" {{ url_for('static', filename='js/home.js')}}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.6/jspdf.plugin.autotable.min.js"></script>
+</body>
+
+</html>

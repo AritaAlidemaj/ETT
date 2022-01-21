@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "Name": "408",
+        "Type": "Large",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 2,
+        "Name": "411",
+        "Type": "Large",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 3,
+        "Name": "415",
+        "Type": "Large",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 4,
+        "Name": "414",
+        "Type": "Large",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 5,
+        "Name": "611",
+        "Type": "Medium",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 6,
+        "Name": "621",
+        "Type": "Medium",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 7,
+        "Name": "626",
+        "Type": "Small",
+        "IsComposite": false,
+        "CompositeType": null
+    },
+    {
+        "Id": 8,
+        "Name": "408/411",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 9,
+        "Name": "408/415",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 10,
+        "Name": "408/414",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 11,
+        "Name": "411/415",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 12,
+        "Name": "411/414",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 13,
+        "Name": "414/415",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Large"
+    },
+    {
+        "Id": 14,
+        "Name": "611/621",
+        "Type": "Composite",
+        "IsComposite": true,
+        "CompositeType": "Medium"
+    },
+    {
+        "Id": 15,
+        "Name": "No room needed",
+        "Type": "Dummy",
+        "IsComposite": false,
+        "CompositeType": null
+    }
+]

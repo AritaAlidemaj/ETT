@@ -1,0 +1,337 @@
+[
+    {
+        "Course": "English",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Programming Language",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Physics 1 (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Physics 1 (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Basics of Electrical Engineering (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Large",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Basics of Electrical Engineering (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Mathematics 1 (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Large",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Mathematics 1 (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Digital Circuits",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Algorithms And Data Structure I",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Physics 2 (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Physics 2 (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Electrical Circuits (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Electrical Circuits (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Mathematics 2 (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Mathematics 2 (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Object Oriented Programming",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Internet",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Mathematics 3K (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Large",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Mathematics 3K (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Databases",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Signals and Systems (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Large",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Signals and Systems (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Electronics (Written)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Medium",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Electronics (Oral)",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Medium",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Project management",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Data Security",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Internet Programming",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 2,
+            "Type": "Medium",
+            "Size": "Composite"
+        }
+    },
+    {
+        "Course": "Human-Computer Interaction",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Computer Networking",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Computer Architecture",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Entrepreneur",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Microprocessors and Microcontrollers",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Internet Security",
+        "NumberOfExams": 0
+    },
+    {
+        "Course": "Software Engineering",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Operating Systems",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Data Mining",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Small"
+        }
+    },
+    {
+        "Course": "Computer Networking Practice",
+        "NumberOfExams": 0
+    },
+    {
+        "Course": "Distributed Systems",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Mobile Programming",
+        "NumberOfExams": 0
+    },
+    {
+        "Course": "Algorithms And Data Structure II",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Large"
+        }
+    },
+    {
+        "Course": "Artificial Intelligence",
+        "NumberOfExams": 0
+    },
+    {
+        "Course": "Professional Practice",
+        "NumberOfExams": 1,
+        "RoomsRequested": {
+            "Number": 1,
+            "Type": "Small"
+        }
+    }
+]

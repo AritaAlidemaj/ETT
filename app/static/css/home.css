@@ -1,0 +1,21 @@
+input[name="dznFile"] {
+    position: absolute;
+    font-size: 50px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+  }
+
+  #upload-dzn {
+    position: relative;
+    overflow: hidden;
+  }
+
+  #upload-loading {
+    display: none;
+  }
+
+  .img-thumbnail {
+    border: 0;
+    }

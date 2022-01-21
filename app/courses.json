@@ -1,0 +1,100 @@
+{
+    "Curricula": [
+        {
+            "Curriculum": "1",
+            "PrimaryCourses": [
+                "English",
+                "Programming Language",
+                "Physics 1 (Written)",
+                "Physics 1 (Oral)",
+                "Basics of Electrical Engineering (Written)",
+                "Basics of Electrical Engineering (Oral)",
+                "Mathematics 1 (Written)",
+                "Mathematics 1 (Oral)"
+            ],
+            "SecondaryCourses": []
+        },
+        {
+            "Curriculum": "2",
+            "PrimaryCourses": [
+                "Object Oriented Programming",
+                "Internet",
+                "Mathematics 3K (Written)",
+                "Mathematics 3K (Oral)",
+                "Databases",
+                "Signals and Systems (Written)",
+                "Signals and Systems (Oral)",
+                "Electronics (Written)",
+                "Electronics (Oral)"
+            ],
+            "SecondaryCourses": [
+                "Digital Circuits",
+                "Algorithms And Data Structure I",
+                "Physics 2 (Written)",
+                "Physics 2 (Oral)",
+                "Electrical Circuits (Written)",
+                "Electrical Circuits (Oral)",
+                "Mathematics 2 (Written)",
+                "Mathematics 2 (Oral)"
+            ]
+        },
+        {
+            "Curriculum": "3",
+            "PrimaryCourses": [
+                "Entrepreneur",
+                "Microprocessors and Microcontrollers",
+                "Internet Security",
+                "Software Engineering",
+                "Operating Systems"
+            ],
+            "SecondaryCourses": [
+                "Project management",
+                "Data Security",
+                "Internet Programming",
+                "Human-Computer Interaction",
+                "Computer Networking",
+                "Computer Architecture"
+            ]
+        },
+        {
+            "Curriculum": "4",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "Data Mining",
+                "Distributed Systems",
+                "Algorithms And Data Structure II",
+                "Professional Practice"
+            ]
+        },
+        {
+            "Curriculum": "5",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "Data Mining",
+                "Distributed Systems",
+                "Artificial Intelligence",
+                "Professional Practice"
+            ]
+        },
+        {
+            "Curriculum": "6",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "Distributed Systems",
+                "Algorithms And Data Structure II",
+                "Artificial Intelligence",
+                "Professional Practice"
+            ]
+        },
+        {
+            "Curriculum": "7",
+            "PrimaryCourses": [],
+            "SecondaryCourses": [
+                "Computer Networking Practice",
+                "Distributed Systems",
+                "Mobile Programming",
+                "Professional Practice"
+            ]
+        }
+    ]
+}

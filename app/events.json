@@ -1,0 +1,319 @@
+[
+    {
+        "Id": 0,
+        "Name": "English",
+        "Teachers": [
+            1
+        ]
+    },
+    {
+        "Id": 1,
+        "Name": "Programming Language",
+        "Teachers": [
+            2,
+            18
+        ]
+    },
+    {
+        "Id": 2,
+        "Name": "Physics 1 (Written)",
+        "Teachers": [
+            3,
+            20
+        ]
+    },
+    {
+        "Id": 3,
+        "Name": "Physics 1 (Oral)",
+        "Teachers": [
+            3,
+            20
+        ]
+    },
+    {
+        "Id": 4,
+        "Name": "Basics of Electrical Engineering (Written)",
+        "Teachers": [
+            4,
+            10
+        ]
+    },
+    {
+        "Id": 5,
+        "Name": "Basics of Electrical Engineering (Oral)",
+        "Teachers": [
+            4,
+            10
+        ]
+    },
+    {
+        "Id": 6,
+        "Name": "Mathematics 1 (Written)",
+        "Teachers": [
+            5,
+            9
+        ]
+    },
+    {
+        "Id": 7,
+        "Name": "Mathematics 1 (Oral)",
+        "Teachers": [
+            5,
+            9
+        ]
+    },
+    {
+        "Id": 8,
+        "Name": "Digital Circuits",
+        "Teachers": [
+            6
+        ]
+    },
+    {
+        "Id": 9,
+        "Name": "Algorithms And Data Structure I",
+        "Teachers": [
+            2,
+            18
+        ]
+    },
+    {
+        "Id": 10,
+        "Name": "Physics 2 (Written)",
+        "Teachers": [
+            3,
+            20
+        ]
+    },
+    {
+        "Id": 11,
+        "Name": "Physics 2 (Oral)",
+        "Teachers": [
+            3,
+            20
+        ]
+    },
+    {
+        "Id": 12,
+        "Name": "Electrical Circuits (Written)",
+        "Teachers": [
+            4,
+            10
+        ]
+    },
+    {
+        "Id": 13,
+        "Name": "Electrical Circuits (Oral)",
+        "Teachers": [
+            4,
+            10
+        ]
+    },
+    {
+        "Id": 14,
+        "Name": "Mathematics 2 (Written)",
+        "Teachers": [
+            5,
+            9
+        ]
+    },
+    {
+        "Id": 15,
+        "Name": "Mathematics 2 (Oral)",
+        "Teachers": [
+            5,
+            9
+        ]
+    },
+    {
+        "Id": 16,
+        "Name": "Object Oriented Programming",
+        "Teachers": [
+            7
+        ]
+    },
+    {
+        "Id": 17,
+        "Name": "Internet",
+        "Teachers": [
+            8
+        ]
+    },
+    {
+        "Id": 18,
+        "Name": "Mathematics 3K (Written)",
+        "Teachers": [
+            9
+        ]
+    },
+    {
+        "Id": 19,
+        "Name": "Mathematics 3K (Oral)",
+        "Teachers": [
+            9
+        ]
+    },
+    {
+        "Id": 20,
+        "Name": "Databases",
+        "Teachers": [
+            8
+        ]
+    },
+    {
+        "Id": 21,
+        "Name": "Signals and Systems (Written)",
+        "Teachers": [
+            10
+        ]
+    },
+    {
+        "Id": 22,
+        "Name": "Signals and Systems (Oral)",
+        "Teachers": [
+            10
+        ]
+    },
+    {
+        "Id": 23,
+        "Name": "Electronics (Written)",
+        "Teachers": [
+            11,
+            19
+        ]
+    },
+    {
+        "Id": 24,
+        "Name": "Electronics (Oral)",
+        "Teachers": [
+            11,
+            19
+        ]
+    },
+    {
+        "Id": 25,
+        "Name": "Project management",
+        "Teachers": [
+            12
+        ]
+    },
+    {
+        "Id": 26,
+        "Name": "Data Security",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 27,
+        "Name": "Internet Programming",
+        "Teachers": [
+            14
+        ]
+    },
+    {
+        "Id": 28,
+        "Name": "Human-Computer Interaction",
+        "Teachers": [
+            7
+        ]
+    },
+    {
+        "Id": 29,
+        "Name": "Computer Networking",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 30,
+        "Name": "Computer Architecture",
+        "Teachers": [
+            14
+        ]
+    },
+    {
+        "Id": 31,
+        "Name": "Entrepreneur",
+        "Teachers": [
+            12
+        ]
+    },
+    {
+        "Id": 32,
+        "Name": "Microprocessors and Microcontrollers",
+        "Teachers": [
+            15
+        ]
+    },
+    {
+        "Id": 33,
+        "Name": "Internet Security",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 34,
+        "Name": "Software Engineering",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 35,
+        "Name": "Operating Systems",
+        "Teachers": [
+            16
+        ]
+    },
+    {
+        "Id": 36,
+        "Name": "Data Mining",
+        "Teachers": [
+            8
+        ]
+    },
+    {
+        "Id": 37,
+        "Name": "Computer Networking Practice",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 38,
+        "Name": "Distributed Systems",
+        "Teachers": [
+            7
+        ]
+    },
+    {
+        "Id": 39,
+        "Name": "Mobile Programming",
+        "Teachers": [
+            13
+        ]
+    },
+    {
+        "Id": 40,
+        "Name": "Algorithms And Data Structure II",
+        "Teachers": [
+            2
+        ]
+    },
+    {
+        "Id": 41,
+        "Name": "Artificial Intelligence",
+        "Teachers": [
+            17
+        ]
+    },
+    {
+        "Id": 42,
+        "Name": "Professional Practice",
+        "Teachers": [
+            18
+        ]
+    }
+]
